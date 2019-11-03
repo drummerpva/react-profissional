@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;EACA","file":"aula07.e31bb0bc.css","sourceRoot":"..","sourcesContent":["body {\r\n  background: #03a9f4;\r\n  margin: 0;\r\n  padding: 0;\r\n  box-sizing: border-box;\r\n}\r\n"]}
